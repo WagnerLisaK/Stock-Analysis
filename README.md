@@ -13,24 +13,24 @@ The charts below show the volume traded and ROI for each year.  Overall, the yea
 ## Code Structure
 This data was analyzed with two different sets of code: one looping multiple times over the same data and one looping just once over all of the data. Below shows the 2 different sets of code ...
 
-The MULTIPLE-loop code is below:
+**The MULTIPLE-loop code is below:**
 ![Multi_Loop_Code.png](https://github.com/WagnerLisaK/Stock-Analysis/blob/main/Resources/Multi_Loop_Code.png)
 
-The SINGLE-loop code is below:
+**The SINGLE-loop code is below:**
 ![Single_Loop_Code.png](https://github.com/WagnerLisaK/Stock-Analysis/blob/main/Resources/Single_Loop_Code.png)
 
 
 ## Code Performance
 The single-looping code out-performed the multiple-looping code as seen below.
 
-Below shows the MULTIPLE-Looping Run-time Results for 2017 and 2018 using only one array.
+**Below shows the MULTIPLE-Looping Run-time Results for 2017 and 2018 using only one array.**
 
 ![VBA_Challenge_2017_BEFORE.png](https://github.com/WagnerLisaK/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017_BEFORE.png)
 
 ![VBA_Challenge_2018_BEFORE.PNG](https://github.com/WagnerLisaK/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018_BEFORE.png)
 
 
-Below shows the SINGLE-Looping Run-time Results for 2017 and 2018 using four arrays.
+**Below shows the SINGLE-Looping Run-time Results for 2017 and 2018 using four arrays.**
 
 ![VBA_Challenge_2017.png](https://github.com/WagnerLisaK/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
