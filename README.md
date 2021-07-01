@@ -38,9 +38,9 @@ The single-looping code out-performed the multiple-looping code as seen below.
 
 
 ## Summary
-Refactoring code can give the user a more efficient experience, but from a developer stand-point, it can be confusing and easy to make mistakes when moving the code around and adding/changing variables.  The refactored code may take more debugging time.
+Refactoring code can give the user a more efficient experience, but from a developer stand-point, it can be confusing and easy to make mistakes when moving the code around and adding/changing variables.  The refactored code may take more debugging time.  It may save time being able to copy/paste code, but extra diligence is needed to make sure the correct code ends up in the correct spot with the correct variables.
 
-In my experience of refactoring the original code, I really had to take my time and found that I made many sloppy mistakes found during the debugging process.  If time allows, really thinking through the process, mapping out the code plan, and writing the code once is ideal.
+In my experience of refactoring the original code, I really had to take my time and found that I made many sloppy mistakes (incorrect variables, mis-ordered code) that were found during the debugging process.  If time allows, really thinking through the process, mapping out the code plan, and writing the code once is ideal.
 
 Submitted by Lisa K Wagner, 06/30/2021
 
